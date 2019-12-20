@@ -1,0 +1,32 @@
+header{
+    border: 1px solid #cf7676;
+    height: 50px;
+    background-color: #cf7676;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+header a{
+    color:#f1ecf1;
+    font-size: 30px;
+}
+h1 {
+    padding-top: 50px;
+    text-align: center;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+img{
+    width: 260px;
+}
+main p{
+    width: 870;
+    font-size: 30px;
+    line-height: 35px;
+}
+
